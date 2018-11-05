@@ -7,4 +7,6 @@
  "settings.credits": "Credits",
  "settings.feedback": "Retours",
  "update.info": "Ce raccourci supporte la recherche de mise à jour automatique tous les trois jours en utilisant "Shortcuts Updater". La prochaine étape l'installera."
+ "info.token": "Pour que le raccourci puisse interagir avec Vkontakte, vous avez besoin d'une clé d'accès. Pour l'obtenir, à l'étape suivante, vous devez vous connecter à Vkontakte, cliquer sur "autoriser", puis copier le lien et revenir au raccourci.",
+ "info.secure": "Pour votre sécurité, toutes les données seront uniquement sauvés dans votre appareil, hors raccourci."
 }
