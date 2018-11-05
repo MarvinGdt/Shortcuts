@@ -1,0 +1,10 @@
+{
+ "name": "VK Manager",
+ "menu.message": "Envoyer un message",
+ "menu.settings": "Réglages",
+ "settings.language": "Langues",
+ "language.help": "Aidez-nous à traduire",
+ "settings.credits": "Credits",
+ "settings.feedback": "Retours",
+ "update.info": "Ce raccourci supporte la recherche de mise à jour automatique tous les trois jours en utilisant "Shortcuts Updater". La prochaine étape l'installera."
+}
