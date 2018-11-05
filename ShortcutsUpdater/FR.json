@@ -1,0 +1,16 @@
+{
+ "menu.supported": "Raccourcis supportés",
+ "menu.all": "Tout mettre à jour",
+ "menu.settings": "Réglages",
+ "settings.language": "Langues",
+ "language.help": "Aidez-nous à traduire",
+ "changelog.update": "Une mise à jour est disponible",
+ "changelog.noupdate": "Aucune mise à jour!",
+ "changelog.name": "Nom",
+ "changelog.version": "Version",
+ "changelog.current": "Version actuelle",
+ "changelog.new": "Nouvelle Version",
+ "changelog.changes": "Notes de MàJ",
+ "settings.credits": "Credits",
+ "settings.feedback": "Retours"
+}
